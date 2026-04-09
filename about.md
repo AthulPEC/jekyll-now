@@ -19,7 +19,7 @@ I run the YouTube channel **AJ Kutties World**, where I share curiosity-driven c
 #### 🌟 Projects & Involvement
 * **NSS Unit 314:** Actively involved in community service and residential camp coordination.
 * **Startup Ecosystem:** Attended the IEDC Startup Summit 2026 at Amal Jyothi College.
-* **Arts:** Malayalam poetry writing and language learning (Tamil).
+* **Arts:** Malayalam poetry writing and language learning (German).
 
 ---
 *Connect with me through the social icons below!*
