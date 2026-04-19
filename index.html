@@ -2,17 +2,53 @@
 layout: default
 ---
 
+<div class="college-container" style="width: 100%; margin-bottom: 30px;">
+    <img src="{{ site.baseurl }}/images/college-banner.jpg" 
+         alt="College of Engineering Pathanapuram" 
+         style="width: 100%; height: auto; border-radius: 8px; display: block; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
+    
+    <div class="college-caption" style="
+        margin-top: -5px;
+        padding: 20px; 
+        background: #ffffff; 
+        border-left: 6px solid #00629B; 
+        border-bottom: 1px solid #ddd;
+        border-right: 1px solid #ddd;
+        border-radius: 0 0 8px 8px;
+        box-shadow: 0 2px 5px rgba(0,0,0,0.05);">
+        <h2 style="margin: 0; font-size: 1.6em; color: #222; font-family: sans-serif;">College of Engineering Pathanapuram</h2>
+        <p style="margin: 8px 0 0 0; color: #555; font-size: 1em; line-height: 1.4;">
+            Affiliated to APJ Abdul Kalam Technological University <br>
+            <span style="color: #888; font-size: 0.9em;">A CAPE Institution under Govt. of Kerala</span>
+        </p>
+    </div>
+</div>
+
+<div style="margin: 40px 0; border-top: 1px solid #eee;"></div>
+
 <div class="posts">
   {% for post in site.posts %}
-    <article class="post">
+    <article class="post" style="margin-bottom: 60px; border-bottom: 1px solid #f9f9f9; padding-bottom: 20px;">
 
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+      <h1 style="font-size: 2em; margin-bottom: 15px;">
+        <a href="{{ site.baseurl }}{{ post.url }}" style="text-decoration: none; color: #00629B;">{{ post.title }}</a>
+      </h1>
 
-      <div class="entry">
+      <div class="entry" style="font-size: 1.1em; line-height: 1.7; color: #333;">
         {{ post.excerpt }}
       </div>
 
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more" style="
+        display: inline-block; 
+        margin-top: 20px; 
+        padding: 10px 20px; 
+        background: #00629B; 
+        color: white; 
+        text-decoration: none; 
+        border-radius: 4px; 
+        font-weight: bold; 
+        font-size: 0.9em;
+        transition: background 0.3s ease;">Read Full Post</a>
     </article>
   {% endfor %}
 </div>
