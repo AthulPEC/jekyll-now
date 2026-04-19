@@ -60,11 +60,29 @@ title: Profile
 </div>
 
 ---
+---
 
-## 🏆 Key Achievements
-<div style="margin-top: 20px; line-height: 1.8;">
-* **IEDC Startup Summit 2026:** Delegate representing PEC at Amal Jyothi College of Engineering.
-* **Content Strategy:** Developed and managed <strong>AJ Kutties World</strong>, focusing on technical and campus-life documentation.
-* **Technical Archival:** Successfully modernized the digital reporting system for IEEE Student Branch PEC.
-* *[Add your next achievement here...]*
+## 🏆 Professional Achievements
+
+<div style="margin-top: 25px; line-height: 1.8;">
+
+  <div style="margin-bottom: 20px; padding-left: 10px; border-left: 3px solid #eee;">
+    <h4 style="margin: 0; color: #222;">
+        <a href="https://iedc.startupmission.in/" target="_blank" style="color: #222; text-decoration: none;">IEDC Startup Summit 2026</a>
+    </h4>
+    <p style="margin: 5px 0 0 0; color: #555;">Represented College of Engineering Pathanapuram as a delegate at the summit hosted by Amal Jyothi College of Engineering.</p>
+  </div>
+
+  <div style="margin-bottom: 20px; padding-left: 10px; border-left: 3px solid #eee;">
+    <h4 style="margin: 0; color: #222;">
+        <a href="https://www.youtube.com/channel/UCyvS9sj7-jXh3nusOJMaXlw" target="_blank" style="color: #222; text-decoration: none;">Digital Content Strategy & Production</a>
+    </h4>
+    <p style="margin: 5px 0 0 0; color: #555;">Founded and managed <strong>AJ Kutties World</strong>, producing curiosity-driven content and professional campus-life documentation.</p>
+  </div>
+
+  <div style="margin-bottom: 20px; padding-left: 10px; border-left: 3px solid #eee;">
+    <h4 style="margin: 0; color: #222;">Technical Archival System</h4>
+    <p style="margin: 5px 0 0 0; color: #555;">Modernized the digital reporting and archival framework for IEEE Student Branch PEC to ensure section-level compliance.</p>
+  </div>
+
 </div>
