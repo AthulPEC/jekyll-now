@@ -10,8 +10,8 @@ I lead the branch’s digital archival strategy. My focus is on modernizing how 
 
 ### 🔹 Tink-Her-Hack 4.0 (Women's Hackathon)
 * [cite_start]**Roles:** Event Volunteer & Lead Report Drafter [cite: 42]
-* [cite_start]**Contribution:** Supported logistics for the 20-hour overnight build while simultaneously authoring the official event documentation[cite: 10, 21, 42]. [cite_start]I synthesized data from 14 teams and 28 participants into a comprehensive technical summary[cite: 32, 72].
-* [Read Full Official Report]({{ site.baseurl }}/assets/reports/Tink-Her-Hack_4.0_Report.pdf) | [View Volunteer Evidence in Gallery]({{ site.baseurl }}/gallery#ieee-tinkherhack)
+* [cite_start]**Contribution:** Supported logistics for the 20-hour overnight build [cite: 10] [cite_start]while simultaneously authoring the official event documentation[cite: 42]. [cite_start]I synthesized data from 14 teams and 28 participants into a comprehensive technical summary[cite: 32, 72].
+* [Read Full Official Report]({{ site.baseurl }}/assets/reports/Tink-Her-Hack_4.0_Report.pdf){:target="_blank"} | [View Volunteer Evidence in Gallery]({{ site.baseurl }}/gallery#ieee-tinkherhack)
 
 ### 🔹 IEDC Startup Summit 2026
 * **Role:** Delegate
