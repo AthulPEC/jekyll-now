@@ -10,7 +10,7 @@ permalink: /gallery/
   <a href="{{ site.baseurl }}/projects#tink-her-hack-40-womens-hackathon" style="text-decoration: underline; color: #00629B;">Read Role Details</a></p>
   
   <div style="padding: 15px; background: #f9f9f9; border-radius: 8px; border-left: 5px solid #00629B; margin-bottom: 20px;">
-    <strong>Official Report:</strong> <a href="#">(Link to PDF coming soon)</a>
+ <strong>Official Report:</strong> <a href="{{ site.baseurl }}/assets/reports/Tink-Her-Hack_4.0_Report.pdf" target="_blank">View Technical Report (PDF)</a>
   </div>
   
   <p><em>[Volunteer photos to be uploaded here]</em></p>
