@@ -9,8 +9,8 @@ title: Technical Projects & Roles
 I lead the branch’s digital archival strategy. My focus is on modernizing how we document technical activities, ensuring every workshop and hackathon is captured with professional precision to meet institutional and IEEE Kerala Section standards.
 
 ### 🔹 Tink-Her-Hack 4.0 (Women's Hackathon)
-* [cite_start]**Roles:** Event Volunteer & Lead Report Drafter [cite: 42]
-* [cite_start]**Contribution:** Supported logistics for the 20-hour overnight build [cite: 10] [cite_start]while simultaneously authoring the official event documentation[cite: 42]. [cite_start]I synthesized data from 14 teams and 28 participants into a comprehensive technical summary[cite: 32, 72].
+* **Roles:** Event Volunteer & Lead Report Drafter
+* **Contribution:** Supported logistics for the 20-hour overnight build while simultaneously authoring the official event documentation. I synthesized data from 14 teams and 28 participants into a comprehensive technical summary.
 * [Read Full Official Report]({{ site.baseurl }}/assets/reports/Tink-Her-Hack_4.0_Report.pdf){:target="_blank"} | [View Volunteer Evidence in Gallery]({{ site.baseurl }}/gallery#ieee-tinkherhack)
 
 ### 🔹 IEDC Startup Summit 2026
