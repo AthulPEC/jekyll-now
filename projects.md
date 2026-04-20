@@ -42,4 +42,4 @@ I lead the branch’s digital archival strategy. My focus is on modernizing how 
 * **Timeline:** January 2026
 * **Role:** NSS Volunteer / Trainee
 * **Contribution:** Completed a 7-day intensive on-field residential training camp. The program provided hands-on experience in fire safety, search and rescue, and emergency medical response under NDMA guidelines.
-* [View Training Photos in Gallery]({{ site.baseurl }}/gallery#aapda-mitra)  </div>
+* [View Training Photos in Gallery]({{ site.baseurl }}/gallery#aapda-mitra)
