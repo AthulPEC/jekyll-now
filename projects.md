@@ -21,7 +21,7 @@ I lead the branch’s digital archival strategy. My focus is on modernizing how 
 ### 🔹 IEDC Startup Summit 2026
 * **Role:** Delegate
 * **Contribution:** Represented PEC at the summit held at Amal Jyothi College of Engineering. Participated in sessions focused on the Kerala startup ecosystem and entrepreneurial development.
-* <a href="{{ site.baseurl }}/gallery#ieee-iedc">View Summit Evidence in Gallery</a>
+* [View Summit Evidence in Gallery]({{ site.baseurl }}/gallery#ieee-iedc)
 
 ---
 
@@ -31,7 +31,7 @@ I lead the branch’s digital archival strategy. My focus is on modernizing how 
 ### 🔹 NRPF Annual Meet 2026
 * **Role:** Unit Coordinator (UC)
 * **Contribution:** Participated in the Annual Meet organized by the University NSS Cell at ACE College of Engineering, representing the Unit and engaging in regional conservation planning.
-* <a href="{{ site.baseurl }}/gallery#nss-nrpf">View NRPF Meet Highlights in Gallery</a>
+* [View NRPF Meet Highlights in Gallery]({{ site.baseurl }}/gallery#nss-nrpf)
 
 ---
 
@@ -42,7 +42,4 @@ I lead the branch’s digital archival strategy. My focus is on modernizing how 
 * **Timeline:** January 2026
 * **Role:** NSS Volunteer / Trainee
 * **Contribution:** Completed a 7-day intensive on-field residential training camp. The program provided hands-on experience in fire safety, search and rescue, and emergency medical response under NDMA guidelines.
-* <a href="{{ site.baseurl }}/gallery#aapda-mitra">View Training Photos in Gallery</a>* <div style="display: flex; justify-content: space-between;">
-    <span></span>
-    <a href="{{ site.baseurl }}/gallery#aapda-mitra">View Training Photos in Gallery</a>
-  </div>
+* [View Training Photos in Gallery]({{ site.baseurl }}/gallery#aapda-mitra)  </div>
