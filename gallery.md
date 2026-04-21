@@ -33,12 +33,26 @@ permalink: /gallery/
 
 <div id="ieee-iedc" style="margin-bottom: 50px; margin-top: 50px;">
   <h2>IEDC Startup Summit 2026</h2>
-  <p>Visual highlights from the summit at Amal Jyothi College of Engineering.
+  <p>Visual highlights from the state-level summit held at Amal Jyothi College of Engineering.
   <a href="{{ site.baseurl }}/projects#iedc-startup-summit-2026" style="text-decoration: underline; color: #00629B;">Read Role Details</a></p>
   
-  <p><em>[Delegate photos to be uploaded here]</em></p>
+  <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 15px; align-items: end;">
+    <div style="background: #f9f9f9; border-radius: 8px; border: 1px solid #eee; display: flex; align-items: center; justify-content: center; height: 300px;">
+      <img src="{{ site.baseurl }}/images/iedc-summit-kit.jpeg" 
+           alt="IEDC Delegate Kit" 
+           style="max-width: 100%; max-height: 100%; object-fit: contain; border-radius: 4px;">
+    </div>
+    
+    <div style="background: #f9f9f9; border-radius: 8px; border: 1px solid #eee; display: flex; align-items: center; justify-content: center; height: 300px;">
+      <img src="{{ site.baseurl }}/images/iedc-summit-group.jpeg" 
+           alt="PEC Team at IEDC Summit" 
+           style="max-width: 100%; max-height: 100%; object-fit: contain; border-radius: 4px;">
+    </div>
+  </div>
+  <p style="font-size: 0.9em; color: #666; margin-top: 10px;">
+    <em>Representing the College of Engineering Pathanapuram (PEC) at one of Kerala's largest entrepreneurial summits.</em>
+  </p>
 </div>
-
 <hr>
 
 <div id="nss-nrpf" style="margin-bottom: 50px; margin-top: 50px;">
