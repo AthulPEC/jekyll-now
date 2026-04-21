@@ -10,10 +10,14 @@ permalink: /gallery/
   <a href="{{ site.baseurl }}/projects#tink-her-hack-40-womens-hackathon" style="text-decoration: underline; color: #00629B;">Read Role Details</a></p>
   
   <div style="padding: 15px; background: #f9f9f9; border-radius: 8px; border-left: 5px solid #00629B; margin-bottom: 20px;">
-    <strong>Official Report:</strong> <a href="{{ site.baseurl }}/assets/reports/Tink-Her-Hack_4.0_Report.pdf" target="_blank">View Technical Report (PDF)</a>
+    <strong>Official Document:</strong> <a href="{{ site.baseurl }}/assets/reports/Tink-Her-Hack_4.0_Report.pdf" target="_blank">View Technical Report (PDF)</a>
   </div>
-  
-  <p><em>[Volunteer photos to be uploaded here]</em></p>
+
+  <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px;">
+    <img src="{{ site.baseurl }}/images/tink-her-hack-group.png" alt="Tink-Her-Hack Group Photo" style="border-radius: 8px; width: 100%;">
+    <img src="{{ site.baseurl }}/images/tink-her-hack-ceremony.png" alt="Tink-Her-Hack Ceremony" style="border-radius: 8px; width: 100%;">
+  </div>
+  <p style="font-size: 0.9em; color: #666; margin-top: 10px;"><em>The PEC edition of Tink-Her-Hack 4.0 engaged 28 innovators in a 20-hour overnight build.</em></p>
 </div>
 
 <hr>
