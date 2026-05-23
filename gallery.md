@@ -8,8 +8,7 @@ permalink: /gallery/
 <div id="ieee-tinkherhack" style="margin-bottom: 60px;">
   <h2 style="color: #00629B;">IEEE: Tink-Her-Hack 4.0</h2>
   <p>Evidence of volunteer coordination and the official technical report. 
-  <a href="{{ site.baseurl }}/projects#tink-her-hack-40-womens-hackathon" style="text-decoration: underline; color: #00629B;">Read Role Details</a></p>
-  
+  <a href="{{ site.baseurl }}/projects#-tink-her-hack-40-womens-hackathon" style="text-decoration: underline; color: #00629B;">Read Role Details</a>
   <div style="padding: 15px; background: #fff; border-radius: 12px; border: 1px solid #00c6ff; box-shadow: 0 0 15px rgba(0, 198, 255, 0.2); margin-bottom: 20px;">
     <strong>Official Document:</strong> <a href="{{ site.baseurl }}/assets/reports/Tink-Her-Hack_4.0_Report.pdf" target="_blank">View Technical Report (PDF)</a>
   </div>
@@ -27,7 +26,7 @@ permalink: /gallery/
 <div id="ieee-iedc" style="margin-bottom: 60px;">
   <h2 style="color: #00629B;">IEDC Startup Summit 2026</h2>
   <p>Visual highlights from the state-level summit held at Amal Jyothi College of Engineering.
-  <a href="{{ site.baseurl }}/projects#iedc-startup-summit-2026" style="text-decoration: underline; color: #00629B;">Read Role Details</a></p>
+  <a href="{{ site.baseurl }}/projects#-iedc-startup-summit-2026" style="text-decoration: underline; color: #00629B;">Read Role Details</a>
   
   <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; align-items: end;">
     <img src="{{ site.baseurl }}/images/iedc-summit-group.jpeg" alt="PEC Team" style="border-radius: 12px; width: 100%; height: auto; border: 2px solid #00c6ff; box-shadow: 0 0 20px rgba(0, 198, 255, 0.3);">
@@ -42,7 +41,7 @@ permalink: /gallery/
 <div id="nss-nrpf" style="margin-bottom: 60px;">
   <h2 style="color: #00629B;">NRPF Annual Meet</h2>
   <p>Evidence from the state-level annual meet held at ACE College of Engineering. **Representing the College NSS Unit as a participant.**
-  <a href="{{ site.baseurl }}/projects#nrpf-annual-meet-2026" style="text-decoration: underline; color: #00629B;">Read Role Details</a></p>
+  <a href="{{ site.baseurl }}/projects#-nrpf-annual-meet-2026" style="text-decoration: underline; color: #00629B;">Read Role Details</a>
   
   <!-- Row 1: Joint Group Photos -->
   <div style="display: grid; grid-template-columns: 1.8fr 1fr; gap: 20px; align-items: end; margin-bottom: 10px;">
@@ -78,8 +77,7 @@ permalink: /gallery/
 <div id="aapda-mitra" style="margin-bottom: 60px;">
   <h2 style="color: #00629B;">Aapda Mitra: 7-Day Residential Training</h2>
   <p>Intensive Disaster Management camp held at <strong>Kristu Jyothi Animation Centre, Kottiyam</strong>.
-  <a href="{{ site.baseurl }}/projects#disaster-management-training-camp" style="text-decoration: underline; color: #00629B;">Read Training Details</a></p>
-
+  <a href="{{ site.baseurl }}/projects#-disaster-management-training-camp" style="text-decoration: underline; color: #00629B;">Read Training Details</a>
   <div style="display: grid; grid-template-columns: 1fr 1.5fr; gap: 20px; align-items: start;">
     <!-- Column 1: The Iconic Gift Frame -->
     <div style="text-align: center;">
