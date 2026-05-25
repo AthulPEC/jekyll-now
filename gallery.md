@@ -100,73 +100,64 @@ permalink: /gallery/
       <p style="margin: 5px 0 0 0; color: #666; font-size: 1.05em;">Sovereign Technological Organisation for Royal Mech (PEC)</p>
     </div>
   </div>
-  <p>Visual highlights from our annual department automotive exhibitions. Documenting my work as an Event Coordinator and association member.</p>
 
   <div id="storm-25" style="margin-bottom: 40px; margin-top: 30px; padding: 25px; background: #fafafa; border-radius: 16px; border: 1px solid #e0e0e0;">
     <h3 style="color: #00629B; margin-top: 0;">🏎️ Punalur Auto Show '25</h3>
-    <p><a href="{{ site.baseurl }}/projects#storm-autoshow-25" style="text-decoration: underline; color: #00629B;">Read Role Details</a></p>
     
     <h4 style="color: #333; margin-bottom: 12px;">📋 Event Posters & Promotional Materials</h4>
     <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 15px; margin-bottom: 25px;">
       <div style="text-align: center;">
-        <img src="{{ site.baseurl }}/images/storm-25-poster-main.png" alt="Punalur Auto Show Official Poster" style="border-radius: 10px; width: 100%; border: 2px solid #00c6ff; box-shadow: 0 4px 10px rgba(0,0,0,0.15);">
-        <p style="font-size: 0.8em; color: #555; margin-top: 5px;"><strong>01.</strong> Official Event Poster</p>
+        <img src="{{ site.baseurl }}/images/storm-25-poster-main.png" style="border-radius: 10px; width: 100%; border: 2px solid #00c6ff;">
+        <p style="font-size: 0.8em; color: #555; margin-top: 5px;">Official Event Poster</p>
       </div>
       <div style="text-align: center;">
-        <img src="{{ site.baseurl }}/images/storm-25-poster-malabari.png" alt="Malabari Feature Poster" style="border-radius: 10px; width: 100%; border: 2px solid #00c6ff; box-shadow: 0 4px 10px rgba(0,0,0,0.15);">
-        <p style="font-size: 0.8em; color: #555; margin-top: 5px;"><strong>02.</strong> 'Malabari' Car Feature Poster</p>
+        <img src="{{ site.baseurl }}/images/storm-25-poster-malabari.png" style="border-radius: 10px; width: 100%; border: 2px solid #00c6ff;">
+        <p style="font-size: 0.8em; color: #555; margin-top: 5px;">'Malabari' Car Feature</p>
       </div>
       <div style="text-align: center;">
-        <img src="{{ site.baseurl }}/images/storm-25-poster-madmax.png" alt="Mad Max Feature Poster" style="border-radius: 10px; width: 100%; border: 2px solid #00c6ff; box-shadow: 0 4px 10px rgba(0,0,0,0.15);">
-        <p style="font-size: 0.8em; color: #555; margin-top: 5px;"><strong>03.</strong> 'Mad Max' Car Feature Poster</p>
+        <img src="{{ site.baseurl }}/images/storm-25-poster-madmax.png" style="border-radius: 10px; width: 100%; border: 2px solid #00c6ff;">
+        <p style="font-size: 0.8em; color: #555; margin-top: 5px;">'Mad Max' Car Feature</p>
       </div>
     </div>
 
     <h4 style="color: #333; margin-bottom: 12px;">📸 Exhibition Grounds & Vehicle Coordination</h4>
     <div style="display: grid; grid-template-columns: 1fr 1.2fr; gap: 15px; margin-bottom: 30px; align-items: start;">
       <div style="text-align: center;">
-        <img src="{{ site.baseurl }}/images/storm-25-entry-line.png" alt="Arrival Entry Gate Lineup" style="border-radius: 10px; width: 100%; border: 2px solid #00c6ff; box-shadow: 0 4px 10px rgba(0,0,0,0.15);">
-        <p style="font-size: 0.8em; color: #555; margin-top: 5px;"><strong>04.</strong> Arrival Lineup at Campus Gate</p>
+        <img src="{{ site.baseurl }}/images/storm-25-entry-line.png" style="border-radius: 10px; width: 100%; border: 2px solid #00c6ff;">
+        <p style="font-size: 0.8em; color: #555; margin-top: 5px;">Arrival Entry Gate Lineup</p>
       </div>
       <div style="text-align: center;">
-        <img src="{{ site.baseurl }}/images/storm-25-ground-circle.png" alt="Exhibition Cars Circle Layout" style="border-radius: 10px; width: 100%; border: 2px solid #00c6ff; box-shadow: 0 4px 10px rgba(0,0,0,0.15);">
-        <p style="font-size: 0.8em; color: #555; margin-top: 5px;"><strong>05.</strong> On-Ground Stance Circle Setup</p>
+        <img src="{{ site.baseurl }}/images/storm-25-ground-circle.png" style="border-radius: 10px; width: 100%; border: 2px solid #00c6ff;">
+        <p style="font-size: 0.8em; color: #555; margin-top: 5px;">On-Ground Stance Circle</p>
       </div>
     </div>
 
     <h4 style="color: #333; margin-bottom: 12px;">🎬 Production Video Logs</h4>
     <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 15px; margin-bottom: 15px;">
-      <div style="padding: 15px; background: #f0fbff; border-radius: 12px; border: 2px solid #00629B; text-align: center; display: flex; flex-direction: column; justify-content: center; align-items: center;">
-        <h5 style="margin: 0 0 5px 0; color: #00629B; font-size: 1em;">🎬 Official Promo Teaser</h5>
-        <p style="font-size: 0.8em; color: #333; margin-bottom: 10px;">The countdown promo tracking scheduling at Chemmanthoor Municipal Ground.</p>
-        <a href="https://www.youtube.com/shorts/P_HnHx1C7do" target="_blank" style="display: inline-block; padding: 6px 14px; background: #00629B; color: white; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.8em;">Watch Teaser</a>
+      <div style="padding: 15px; background: #f0fbff; border-radius: 12px; border: 2px solid #00629B; text-align: center;">
+        <h5 style="margin: 0; color: #00629B;">🎬 Official Promo Teaser</h5>
+        <a href="https://www.youtube.com/shorts/P_HnHx1C7do" target="_blank" style="display: inline-block; margin-top: 10px; padding: 6px 14px; background: #00629B; color: white; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.8em;">Watch Teaser</a>
       </div>
-      <div style="padding: 15px; background: #f0fbff; border-radius: 12px; border: 2px solid #00629B; text-align: center; display: flex; flex-direction: column; justify-content: center; align-items: center;">
-        <h5 style="margin: 0 0 5px 0; color: #00629B; font-size: 1em;">🔱 Vehicle Gate Arrivals Log</h5>
-        <p style="font-size: 0.8em; color: #333; margin-bottom: 10px;">Tracking on-ground traffic management as custom vehicles entered campus.</p>
-        <a href="https://www.youtube.com/shorts/8cj0zOSvr2g" target="_blank" style="display: inline-block; padding: 6px 14px; background: #00629B; color: white; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.8em;">Watch Arrival Log</a>
+      <div style="padding: 15px; background: #f0fbff; border-radius: 12px; border: 2px solid #00629B; text-align: center;">
+        <h5 style="margin: 0; color: #00629B;">🔱 Vehicle Entry Gate Log</h5>
+        <a href="https://www.youtube.com/shorts/8cj0zOSvr2g" target="_blank" style="display: inline-block; margin-top: 10px; padding: 6px 14px; background: #00629B; color: white; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.8em;">Watch Arrival Log</a>
       </div>
-    </div>
-
-    <div style="padding: 15px; background: #f0fbff; border-radius: 12px; border: 2px solid #00629B; text-align: center;">
-      <h5 style="margin: 0 0 5px 0; color: #00629B; font-size: 1em;">🔊 Main Exhibition Field Walkthrough</h5>
-      <p style="font-size: 0.85em; color: #333; margin-bottom: 10px;">A full look at the completed arena display, audio system walls, and vehicle parking structures.</p>
-      <a href="https://www.youtube.com/shorts/iC5Rt0aplwE" target="_blank" style="display: inline-block; padding: 8px 20px; background: #00629B; color: white; border-radius: 6px; text-decoration: none; font-weight: bold; font-size: 0.85em;">Watch Ground Walkthrough</a>
     </div>
   </div>
 
-  <div id="storm-26" style="margin-top: 50px;">
-    <h3 style="color: #00629B;">🚀 STORM Autoshow '26</h3>
-    <p><a href="{{ site.baseurl }}/projects#storm-autoshow-26" style="text-decoration: underline; color: #00629B;">Read Role Details</a></p>
+  <div id="storm-26" style="margin-top: 50px; padding: 25px; background: #fafafa; border-radius: 16px; border: 1px solid #e0e0e0;">
+    <h3 style="color: #00629B; margin-top: 0;">🚀 Punalur Auto Show '26</h3>
+    <p>Documenting the venue logistics and exhibition coordination at the Punalur Municipal Ground.</p>
     
     <div style="display: grid; grid-template-columns: 1.8fr 1fr; gap: 20px; align-items: start;">
-      <div style="background: #f9f9f9; border-radius: 12px; border: 2px solid #00c6ff; box-shadow: 0 0 20px rgba(0, 198, 255, 0.1); height: 180px; display: flex; align-items: center; justify-content: center; color: #999; font-style: italic;">
-        [Upload Wide Image: Autoshow '26 Lineup]
+      <div style="text-align: center;">
+        <img src="http://googleusercontent.com/image_collection/image_retrieval/4764232828705477504" alt="Wide Venue Showcase" style="border-radius: 12px; width: 100%; border: 2px solid #00c6ff; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+        <p style="font-size: 0.8em; color: #666; margin-top: 8px;">Main Exhibition Arena Layout</p>
       </div>
-      <div style="background: #f9f9f9; border-radius: 12px; border: 2px solid #00c6ff; box-shadow: 0 0 20px rgba(0, 198, 255, 0.1); height: 180px; display: flex; align-items: center; justify-content: center; color: #999; font-style: italic;">
-        [Upload Tall Image: Arrival Setup]
+      <div style="text-align: center;">
+        <img src="http://googleusercontent.com/image_collection/image_retrieval/16383577292177695298" alt="Venue Entry Setup" style="border-radius: 12px; width: 100%; border: 2px solid #00c6ff; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+        <p style="font-size: 0.8em; color: #666; margin-top: 8px;">Vehicle Entry & Gate Management</p>
       </div>
     </div>
-    <p style="font-size: 0.9em; color: #666; margin-top: 10px;"><em>Photos from the STORM '26 autoshow exhibition setup.</em></p>
   </div>
 </div>
