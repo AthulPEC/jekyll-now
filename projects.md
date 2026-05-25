@@ -35,7 +35,7 @@ permalink: /projects/
 * **Key Responsibilities:** Successfully completed an intensive 7-day residential disaster response training track organized at Kristu Jyothi Animation Centre, Kottiyam, mastering essential modules in fire safety, high-angle rescue operations, and basic medical first aid.
 * <a href="{{ site.baseurl }}/gallery#aapda-mitra">View Training Camp Commemorative Media</a>
 
-### <a id="storm-autoshow-25"></a>🏎️ STORM Autoshow '25 (Punalur)
+### <a id="storm-autoshow-25"></a>🏎️ Punalur Auto Show '25
 * **Role:** Event Coordinator
 * **Key Responsibilities:** Handled structural crowd channeling, arrival logging, and spatial parking placement adjustments for custom modified vehicles and audio van wall systems at the Chemmanthoor Municipal Ground, under the Mechanical Engineering Department student association layout plan.
 * <a href="{{ site.baseurl }}/gallery#storm-25">View Autoshow '25 Posters & Video Logs</a>
