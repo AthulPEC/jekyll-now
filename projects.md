@@ -1,45 +1,46 @@
 ---
 layout: page
-title: Technical Projects & Roles
+title: Academic Projects & Activities
+permalink: /projects/
 ---
 
-## 🏛️ IEEE Student Branch, PEC
-**Core Role:** Documentation Head (March 2026 – Present)
+## 🛠️ Technical & Academic Projects
 
-I lead the branch’s digital archival strategy. My focus is on modernizing how we document technical activities, ensuring every workshop and hackathon is captured with professional precision to meet institutional and IEEE Kerala Section standards.
-
-### <a id="tink-her-hack-40-womens-hackathon"></a>🔹 Tink-Her-Hack 4.0 (Women's Hackathon)
-* **Roles:** Event Volunteer & Lead Report Drafter
-* **Contribution:** Supported logistics for the 20-hour overnight build while simultaneously authoring the official event documentation. I synthesized data from 14 teams and 28 participants into a comprehensive technical summary.
-* <div style="display: flex; justify-content: space-between;">
-    <a href="{{ site.baseurl }}/assets/reports/Tink-Her-Hack_4.0_Report.pdf" target="_blank">Read Full Official Report</a>
-    <a href="{{ site.baseurl }}/gallery#ieee-tinkherhack">View Volunteer Evidence in Gallery</a>
-  </div>
+### 🚗 Personal Portfolio Website
+* **Role:** Lead Developer
+* **Technologies:** HTML, CSS, JavaScript, Jekyll, GitHub Pages
+* **Contribution:** Architected and deployed a professional markdown-based digital portfolio to showcase technical competencies, academic records, and organizational leadership certifications cleanly.
 
 ---
 
-### <a id="iedc-startup-summit-2026"></a>🔹 IEDC Startup Summit 2026
-* **Role:** Delegate
-* **Contribution:** Represented PEC at the summit held at Amal Jyothi College of Engineering. Participated in sessions focused on the Kerala startup ecosystem and entrepreneurial development.
-* [View Summit Evidence in Gallery]({{ site.baseurl }}/gallery#ieee-iedc)
+## 🤝 Institutional Leadership & Activity Roles
 
----
+### <a id="tink-her-hack-40-womens-hackathon"></a>👩‍💻 IEEE Tink-Her-Hack 4.0 Women-Centric Hackathon
+* **Role:** Documentation Head (IEEE Student Branch)
+* **Key Responsibilities:** Directed reporting, official scheduling layouts, and core registration tracking parameters for the 20-hour overnight technical development sprint. Compiled the formal post-event documentation packages for review.
+* <a href="{{ site.baseurl }}/gallery#ieee-tinkherhack">View Tink-Her-Hack Documentation & Media</a>
 
-## 🌿 NSS Unit 314 & NRPF
-**Core Role:** NRPF Student Coordinator (January 2026 – Present)
+### <a id="iedc-startup-summit-2026"></a>🚀 IEDC Startup Summit 2026
+* **Role:** Student Delegate
+* **Key Responsibilities:** Represented the College of Engineering Pathanapuram at the state-level entrepreneurship convention held at Amal Jyothi College of Engineering. Participated in networking sessions focusing on micro-innovation paradigms.
+* <a href="{{ site.baseurl }}/gallery#ieee-iedc">View Startup Summit Delegate Media</a>
 
-### <a id="nrpf-annual-meet-2026"></a>🔹 NRPF Annual Meet 2026
-* **Role:** Unit Coordinator (UC)
-* **Contribution:** Participated in the Annual Meet organized by the University NSS Cell at ACE College of Engineering, representing the Unit and engaging in regional conservation planning.
-* [View NRPF Meet Highlights in Gallery]({{ site.baseurl }}/gallery#nss-nrpf)
+### <a id="nrpf-annual-meet-2026"></a>🌱 NSS Unit 314: NRPF Annual Meet
+* **Role:** Student Coordinator (NRPF Wing)
+* **Key Responsibilities:** Managed logistics, cross-unit networking parameters, and delegation protocols for the state-level meet hosted at ACE College of Engineering.
+* <a href="{{ site.baseurl }}/gallery#nss-nrpf">View NRPF Annual Meet Layout & Logs</a>
 
----
+### <a id="disaster-management-training-camp"></a>🚨 Aapda Mitra Disaster Management Training
+* **Role:** Certified Volunteer / Student Representative
+* **Key Responsibilities:** Successfully completed an intensive 7-day residential disaster response training track organized at Kristu Jyothi Animation Centre, Kottiyam, mastering essential modules in fire safety, high-angle rescue operations, and basic medical first aid.
+* <a href="{{ site.baseurl }}/gallery#aapda-mitra">View Training Camp Commemorative Media</a>
 
-## ⛑️ Aapda Mitra
-**Role:** Volunteer (January 2026 – Present)
+### <a id="storm-autoshow-25"></a>🏎️ STORM Autoshow '25 (Punalur)
+* **Role:** Event Coordinator
+* **Key Responsibilities:** Handled structural crowd channeling, arrival logging, and spatial parking placement adjustments for custom modified vehicles and audio van wall systems at the Chemmanthoor Municipal Ground, under the Mechanical Engineering Department student association layout plan.
+* <a href="{{ site.baseurl }}/gallery#storm-25">View Autoshow '25 Posters & Video Logs</a>
 
-### <a id="disaster-management-training-camp"></a>🔹 Disaster Management Training Camp
-* **Timeline:** January 2026
-* **Role:** NSS Volunteer / Trainee
-* **Contribution:** Completed a 7-day intensive on-field residential training camp. The program provided hands-on experience in fire safety, search and rescue, and emergency medical response under NDMA guidelines.
-* [View Training Photos in Gallery]({{ site.baseurl }}/gallery#aapda-mitra)
+### <a id="storm-autoshow-26"></a>🚀 STORM Autoshow '26
+* **Role:** Joint Organizer / Association Volunteer
+* **Key Responsibilities:** Supported the execution layout and exhibition safety parameters for the 2026 edition of the department's signature automotive display project on the campus grounds.
+* <a href="{{ site.baseurl }}/gallery#storm-26">View Autoshow '26 Media Blocks</a>
