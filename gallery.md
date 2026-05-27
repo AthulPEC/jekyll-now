@@ -30,34 +30,34 @@ permalink: /gallery/
   <div style="display: flex; align-items: center; gap: 20px; margin-bottom: 15px;">
     <img src="{{ site.baseurl }}/images/ieee-logo.jpg" alt="IEEE Logo" style="width: 70px; height: 70px; object-fit: contain; cursor: pointer;" onclick="openModal(this.src)" title="Click to enlarge">
     <div>
-      <h2 style="margin: 0;">IEEE Student Branch Board & Membership</h2>
+      <h2 style="margin: 0; font-size: 1.6em;">IEEE Student Branch Board & Membership</h2>
       <p style="margin: 3px 0 0 0; color: #666; font-size: 0.95em;">Official Executive Committee Postings and Chapter Credentials</p>
     </div>
   </div>
-  <p>Official records of election to the branch EXECOM along with international professional society membership credentials.
-  <a href="{{ site.baseurl }}/projects#role-ieee-doc-head" style="text-decoration: underline; color: #00629B;">Read Role Details</a></p>
+  <p style="color: #444;">Official records of election to the branch EXECOM along with international professional society membership credentials.
+  <a href="{{ site.baseurl }}/projects#role-ieee-doc-head" style="text-decoration: underline; color: #00629B; font-weight: bold;">Read Role Details</a></p>
 
-  <h4 style="color: #333; margin-bottom: 15px;">📋 Official EXECOM 2026 Board Postings</h4>
-  <div style="display: grid; grid-template-columns: 1fr 1.2fr; gap: 20px; margin-bottom: 30px;">
+  <h4 style="color: #333; margin-bottom: 15px;">📋 Official EXECOM Board Groups</h4>
+  <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; margin-bottom: 30px;">
     <div style="text-align: center;">
       <img src="{{ site.baseurl }}/images/ieee-execom-wie.jpeg" style="border-radius: 8px; width: 100%; border: 1px solid #ccc; cursor: pointer;" onclick="openModal(this.src)">
-      <p style="font-size: 0.85em; color: #555; margin-top: 5px;">IEEE WIE Executive Panel Design</p>
+      <p style="font-size: 0.85em; color: #555; margin-top: 5px;">IEEE Women in Engineering (WIE) Group Photo</p>
     </div>
     <div style="text-align: center;">
       <img src="{{ site.baseurl }}/images/ieee-execom-main.jpeg" style="border-radius: 8px; width: 100%; border: 1px solid #ccc; cursor: pointer;" onclick="openModal(this.src)">
-      <p style="font-size: 0.85em; color: #555; margin-top: 5px;">IEEE Student Branch Main Officer Board (Athul J: Documentation Head)</p>
+      <p style="font-size: 0.85em; color: #555; margin-top: 5px;">IEEE Student Branch Main Officer Board poster (Athul J: Documentation Head)</p>
     </div>
   </div>
 
-  <h4 style="color: #333; margin-bottom: 15px;">📸 Branch Gatherings, Professional Oath, and Group Logs</h4>
-  <div style="display: grid; grid-template-columns: 1fr 1.3fr; gap: 20px; margin-bottom: 30px; align-items: start;">
+  <h4 style="color: #333; margin-bottom: 15px;">📸 IEEE Annual General Meeting (AGM) Officer Oath & Group Photo</h4>
+  <div style="display: grid; grid-template-columns: 1fr 1.3fr; gap: 20px; margin-bottom: 35px; align-items: start;">
     <div style="text-align: center;">
-      <img src="{{ site.baseurl }}/images/ieee-agm-oath.png" style="border-radius: 8px; width: 100%; border: 1px solid #ccc; cursor: pointer;" onclick="openModal(this.src)">
+      <img src="{{ site.baseurl }}/images/ieee agm oath.png" alt="Elected Officers Taking the Student Leadership Pledge" style="border-radius: 8px; width: 100%; height: auto; border: 1px solid #ccc; cursor: pointer;" onclick="openModal(this.src)">
       <p style="font-size: 0.85em; color: #555; margin-top: 5px;">Elected Officers Taking the Student Leadership Pledge</p>
     </div>
     <div style="text-align: center;">
-      <img src="{{ site.baseurl }}/images/ieee-agm-group.jpg" style="border-radius: 8px; width: 100%; border: 1px solid #ccc; cursor: pointer;" onclick="openModal(this.src)">
-      <p style="font-size: 0.85em; color: #555; margin-top: 5px;">Branch Assembly Group Photo with Faculty Advisors</p>
+      <img src="{{ site.baseurl }}/images/ieee-agm-group.jpg" alt="IEEE AGM Officer Group Photo" style="border-radius: 8px; width: 100%; height: auto; border: 1px solid #ccc; cursor: pointer;" onclick="openModal(this.src)">
+      <p style="font-size: 0.85em; color: #555; margin-top: 5px;">IEEE AGM Executive Committee Group Photo with Faculty Advisors</p>
     </div>
   </div>
 
