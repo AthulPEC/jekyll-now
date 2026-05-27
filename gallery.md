@@ -52,7 +52,7 @@ permalink: /gallery/
   <h4 style="color: #333; margin-bottom: 15px;">📸 IEEE Annual General Meeting (AGM) Officer Oath & Group Photo</h4>
   <div style="display: grid; grid-template-columns: 1fr 1.3fr; gap: 20px; margin-bottom: 35px; align-items: start;">
     <div style="text-align: center;">
-      <img src="{{ site.baseurl }}/images/ieee agm oath.png" alt="Elected Officers Taking the Student Leadership Pledge" style="border-radius: 8px; width: 100%; height: auto; border: 1px solid #ccc; cursor: pointer;" onclick="openModal(this.src)">
+      <img src="{{ site.baseurl }}/images/ieee-agm-oath.png" alt="Elected Officers Taking the Student Leadership Pledge" style="border-radius: 8px; width: 100%; height: auto; border: 1px solid #ccc; cursor: pointer;" onclick="openModal(this.src)">
       <p style="font-size: 0.85em; color: #555; margin-top: 5px;">Elected Officers Taking the Student Leadership Pledge</p>
     </div>
     <div style="text-align: center;">
@@ -305,7 +305,7 @@ permalink: /gallery/
       </div>
       <div style="padding: 12px; background: #f0fbff; border-radius: 8px; border: 1px solid #00629B; text-align: center;">
         <h5 style="margin: 0 0 5px 0;">🏎️ BMW Traction Run</h5>
-        <a href="https://www.youtube.com/shorts/PE2vjBGV2ZE" target="_blank" style="font-size: 0.9em; font-weight: bold; color: #00629B;">Watch Log Clip →</a>
+        <a href="https://www.youtube.com/shorts/PE2vjBGV2ZE" target="_blank; font-size: 0.9em; font-weight: bold; color: #00629B;">Watch Drift Session →</a>
       </div>
     </div>
   </div>
