@@ -220,7 +220,7 @@ permalink: /gallery/
   <h4 style="color: #333; margin-bottom: 15px;">📸 IEEE Annual General Meeting (AGM) Officer Oath & Group Photo</h4>
   <div style="display: grid; grid-template-columns: 1fr 1.3fr; gap: 20px; margin-bottom: 35px; align-items: start;">
     <div style="text-align: center;">
-      <img src="{{ site.baseurl }}/images/ieee%20agm%20oath.png" alt="Elected Officers Taking the Student Leadership Pledge" style="border-radius: 8px; width: 100%; height: auto; border: 1px solid #ccc; cursor: pointer;" onclick="openModal(this.src)">
+      <img src="{{ site.baseurl }}/images/ieee-agm-oath.png" alt="Elected Officers Taking the Student Leadership Pledge" style="border-radius: 8px; width: 100%; height: auto; border: 1px solid #ccc; cursor: pointer;" onclick="openModal(this.src)">
       <p style="font-size: 0.85em; color: #555; margin-top: 5px;">Elected Officers Taking the Student Leadership Pledge</p>
     </div>
     <div style="text-align: center;">
