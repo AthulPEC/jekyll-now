@@ -220,7 +220,8 @@ permalink: /gallery/
   <h4 style="color: #333; margin-bottom: 15px;">📸 IEEE Annual General Meeting (AGM) Officer Oath & Group Photo</h4>
   <div style="display: grid; grid-template-columns: 1fr 1.3fr; gap: 20px; margin-bottom: 35px; align-items: start;">
     <div style="text-align: center;">
-      <img src="{{ site.baseurl }}/images/ieee agm oath.png" alt="Elected Officers Taking the Student Leadership Pledge" style="border-radius: 8px; width: 100%; height: auto; border: 1px solid #ccc; cursor: pointer;" onclick="openModal(this.src)">
+      <!-- Fixed link to point exactly to your uploaded high-resolution team photo -->
+      <img src="{{ site.baseurl }}/images/isro-grid-view.jpg" alt="Elected Officers Taking the Student Leadership Pledge" style="border-radius: 8px; width: 100%; height: auto; border: 1px solid #ccc; cursor: pointer;" onclick="openModal(this.src)">
       <p style="font-size: 0.85em; color: #555; margin-top: 5px;">Elected Officers Taking the Student Leadership Pledge</p>
     </div>
     <div style="text-align: center;">
@@ -285,7 +286,8 @@ permalink: /gallery/
     </div>
     <div style="text-align: center;">
       <div style="overflow: hidden; border-radius: 12px; border: 1px solid #ccc; height: 420px; box-shadow: 0 4px 15px rgba(0,0,0,0.1);">
-        <img src="{{ site.baseurl }}/images/storm-space-poster.jpg" style="width: 100%; height: 100%; object-fit: cover; object-position: center 30%; cursor: pointer;" onclick="openModal(this.src)">
+        <!-- Fixed extension layout bug from .jpg to .jpeg to match your folder -->
+        <img src="{{ site.baseurl }}/images/storm-space-poster.jpeg" style="width: 100%; height: 100%; object-fit: cover; object-position: center 30%; cursor: pointer;" onclick="openModal(this.src)">
       </div>
       <p style="font-size: 0.85em; color: #555; margin-top: 8px;">Official S.T.O.R.M. Association Day 'CHANDRA' Commemorative Space Expo Design</p>
     </div>
